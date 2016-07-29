@@ -1,3 +1,7 @@
+This is a fork of H2O that tracks all of the streams for each connection, the priorities, URLs and exposes them through a /h2stats virtual URL as a JSON response.  The primary reason for this fork is to test and report on the various priority schemes used by browsers.
+
+This is still a work in progress and not yet ready.
+
 H2O - an optimized HTTP server with support for HTTP/1.x and HTTP/2
 ===
 
